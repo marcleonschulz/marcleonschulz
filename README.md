@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working for **Maximilian Henrici Websolutions & Marketing**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
